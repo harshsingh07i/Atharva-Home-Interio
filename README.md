@@ -20,23 +20,10 @@ Atharva Home Interio is a premium interior design firm dedicated to transforming
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **3D Effects**: Spline & Custom CSS Animations
 
-## 📦 Getting Started
+## 🌐 Live Website
 
-To run this project locally:
-
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/harshsingh07i/Atharva-Home-Interio.git
-    ```
-2.  **Install dependencies**:
-    ```bash
-    npm install
-    ```
-3.  **Run the development server**:
-    ```bash
-    npm run dev
-    ```
-4.  Open [http://localhost:3000](http://localhost:3000) in your browser.
+Experience the cinematic luxury of Atharva Home Interio live:
+**[Visit Atharva Home Interio](https://atharva-home-interio.vercel.app)** *(Note: Replace with your actual deployed URL)*
 
 ## 📞 Contact Us
 
