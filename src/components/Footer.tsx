@@ -12,17 +12,17 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-5 md:px-8 relative z-10">
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
           <div className="sm:col-span-2">
-            <h3 className="text-2xl font-serif font-bold text-gradient mb-3">Atharva Home Interio</h3>
+            <h3 className="text-2xl font-serif font-bold text-gradient mb-3">Our Project Atharva</h3>
             <p className="text-sm leading-relaxed max-w-sm mb-4" style={{ color: 'var(--text-secondary)' }}>
               Transforming spaces into luxurious experiences. Premium interior design services in
               Varanasi, crafted with passion and precision.
             </p>
             <div className="flex gap-2">
-              <a href="tel:+919140394734" className="glass px-3.5 py-1.5 rounded-full flex items-center gap-1.5 text-xs border border-gold/15 hover:border-gold/30 transition-colors">
+              <a href="tel:+919628616168" className="glass px-3.5 py-1.5 rounded-full flex items-center gap-1.5 text-xs border border-gold/15 hover:border-gold/30 transition-colors">
                 <Phone size={12} className="text-gold" />
                 <span style={{ color: 'var(--text-secondary)' }}>Call</span>
               </a>
-              <a href="https://wa.me/919140394734" target="_blank" rel="noopener noreferrer" className="glass px-3.5 py-1.5 rounded-full flex items-center gap-1.5 text-xs border border-green-500/15 hover:border-green-500/30 transition-colors">
+              <a href="https://wa.me/919628616168" target="_blank" rel="noopener noreferrer" className="glass px-3.5 py-1.5 rounded-full flex items-center gap-1.5 text-xs border border-green-500/15 hover:border-green-500/30 transition-colors">
                 <MessageCircle size={12} className="text-green-400" />
                 <span style={{ color: 'var(--text-secondary)' }}>WhatsApp</span>
               </a>
@@ -60,7 +60,7 @@ export default function Footer() {
             <span>Panchkoshi Rd, Pandeypur, Varanasi – 221002</span>
           </div>
           <p className="text-xs" style={{ color: 'var(--text-muted)' }}>
-            © {new Date().getFullYear()} Atharva Home Interio. All rights reserved.
+            © {new Date().getFullYear()} Our Project Atharva. All rights reserved.
           </p>
         </div>
       </div>

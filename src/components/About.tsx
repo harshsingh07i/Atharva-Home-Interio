@@ -28,7 +28,7 @@ export default function About() {
               Crafting Spaces That <span className="text-gradient">Define Elegance</span>
             </h2>
             <p className="text-base leading-relaxed mb-4" style={{ color: 'var(--text-secondary)' }}>
-              At Atharva Home Interio, we believe every space tells a story. Based in the heart of Varanasi,
+              At Our Project Atharva, we believe every space tells a story. Based in the heart of Varanasi,
               we bring together traditional artistry and modern design sensibilities to create interiors
               that are both timeless and contemporary.
             </p>

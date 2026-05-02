@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import { Star, ChevronLeft, ChevronRight, Quote } from "lucide-react";
 
 const reviews = [
-  { name: "Rajesh Kumar", text: "Absolutely stunning work! Atharva Home Interio transformed our living room into a magazine-worthy space. The attention to detail exceeded our expectations.", rating: 5 },
+  { name: "Rajesh Kumar", text: "Absolutely stunning work! Our Project Atharva transformed our living room into a magazine-worthy space. The attention to detail exceeded our expectations.", rating: 5 },
   { name: "Priya Sharma", text: "Best interior designers in Varanasi! They understood our vision perfectly and delivered a modern kitchen that is both beautiful and functional.", rating: 5 },
   { name: "Amit Verma", text: "Professional team with incredible creativity. Our office space redesign boosted team morale significantly. Modern, sleek, and perfectly balanced.", rating: 5 },
   { name: "Neha Gupta", text: "From wardrobe design to complete bedroom renovation, everything was handled flawlessly. Responsive, creative, and delivers on time.", rating: 5 },

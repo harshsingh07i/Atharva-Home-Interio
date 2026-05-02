@@ -48,7 +48,7 @@ export default function LoadingScreen() {
             transition={{ delay: 0.3, duration: 0.8 }}
             className="text-3xl md:text-4xl font-serif font-bold text-gradient mb-2"
           >
-            Atharva Home Interio
+            Our Project Atharva
           </motion.h1>
           <motion.p
             initial={{ opacity: 0 }}

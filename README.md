@@ -1,8 +1,8 @@
-# Atharva Home Interio 🏠✨
+# Our Project Atharva 🏠✨
 
 **Luxury Interior Design & Furniture Solutions in Varanasi**
 
-Atharva Home Interio is a premium interior design firm dedicated to transforming spaces into cinematic, high-end environments. This website showcases our portfolio, services, and commitment to luxury craftsmanship.
+Our Project Atharva is a premium interior design firm dedicated to transforming spaces into cinematic, high-end environments. This website showcases our portfolio, services, and commitment to luxury craftsmanship.
 
 ## 🚀 Features
 
@@ -22,15 +22,15 @@ Atharva Home Interio is a premium interior design firm dedicated to transforming
 
 ## 🌐 Live Website
 
-Experience the cinematic luxury of Atharva Home Interio live:
-**[Visit Atharva Home Interio](https://atharva-home-interio.vercel.app)** *(Note: Replace with your actual deployed URL)*
+Experience the cinematic luxury of Our Project Atharva live:
+**[Visit Our Project Atharva](https://atharva-home-interio.vercel.app)** *(Note: Replace with your actual deployed URL)*
 
 ## 📞 Contact Us
 
 - **Location**: Varanasi, Uttar Pradesh
-- **Phone**: [+91 70075 51433](tel:+917007551433)
-- **WhatsApp**: [Click to Chat](https://wa.me/917007551433)
+- **Phone**: [+91 96286 16168](tel:+919628616168)
+- **WhatsApp**: [Click to Chat](https://wa.me/919628616168)
 
 ---
 
-*Designed and Developed with ❤️ for Atharva Home Interio*
+*Designed and Developed with ❤️ for Our Project Atharva*

@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Atharva Home Interio | Luxury Interior Design in Varanasi",
+  title: "Our Project Atharva | Luxury Interior Design in Varanasi",
   description: "Premium interior design services in Varanasi. Design your dream space with luxury and precision.",
 };
 

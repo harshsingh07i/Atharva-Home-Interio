@@ -22,7 +22,7 @@ export default function Contact() {
           {/* CTA Buttons */}
           <div className="grid sm:grid-cols-2 gap-4">
             <a
-              href="tel:+919140394734"
+              href="tel:+919628616168"
               className="glass rounded-2xl p-5 flex items-center gap-4 box-glow border border-gold/10 hover:border-gold/30 transition-all block"
             >
               <div className="w-11 h-11 rounded-full bg-gold/10 flex items-center justify-center shrink-0">
@@ -30,12 +30,12 @@ export default function Contact() {
               </div>
               <div className="min-w-0">
                 <p className="text-xs" style={{ color: 'var(--text-muted)' }}>Call Now</p>
-                <p className="font-semibold text-sm" style={{ color: 'var(--text-primary)' }}>+91 91403 94734</p>
+                <p className="font-semibold text-sm" style={{ color: 'var(--text-primary)' }}>+91 96286 16168</p>
               </div>
             </a>
 
             <a
-              href="https://wa.me/919140394734"
+              href="https://wa.me/919628616168"
               target="_blank"
               rel="noopener noreferrer"
               className="glass rounded-2xl p-5 flex items-center gap-4 box-glow border border-green-500/10 hover:border-green-500/30 transition-all block"
@@ -74,14 +74,14 @@ export default function Contact() {
           {/* Map */}
           <div className="rounded-2xl overflow-hidden border border-white/5 h-[280px]">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3605.646244965569!2d83.0019926!3d25.349649099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e2e7c91b17849%3A0x258f2d118ac85fc3!2sAtharva%20Home%20Interio!5e0!3m2!1sen!2sin!4v1777481778917!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3605.646244965569!2d83.0019926!3d25.349649099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e2e7c91b17849%3A0x258f2d118ac85fc3!2sOur%20Project%20Atharva!5e0!3m2!1sen!2sin!4v1777481778917!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0, filter: 'var(--map-filter)' }}
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Atharva Home Interio Location"
+              title="Our Project Atharva Location"
             />
           </div>
         </div>

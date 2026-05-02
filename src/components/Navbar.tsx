@@ -73,7 +73,7 @@ export default function Navbar() {
             onClick={(e) => handleNavClick(e, "#home")}
             className="text-xl md:text-2xl font-serif font-bold text-gradient shrink-0"
           >
-            Atharva Home Interio
+            Our Project Atharva
           </a>
 
           {/* Desktop Nav */}
@@ -103,7 +103,7 @@ export default function Navbar() {
             </button>
 
             <a
-              href="tel:+919140394734"
+              href="tel:+919628616168"
               className="flex items-center gap-2 bg-gold/10 border border-gold/30 text-gold px-4 py-2 rounded-full text-xs font-medium hover:bg-gold hover:text-black transition-all whitespace-nowrap"
             >
               <Phone size={14} />
@@ -164,11 +164,11 @@ export default function Navbar() {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: 10 }}
               transition={{ delay: 0.3, duration: 0.3 }}
-              href="tel:+919140394734"
+              href="tel:+919628616168"
               className="flex items-center gap-2 bg-gold text-black px-6 py-3 rounded-full font-medium text-sm mt-4"
             >
               <Phone size={16} />
-              +91 91403 94734
+              +91 96286 16168
             </motion.a>
           </motion.div>
         )}
